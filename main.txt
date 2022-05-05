@@ -1,5 +1,5 @@
 line 2 edited 
-line 3 edited() changed
+line 3 edited()
 line 4 edited
 line 5
 line 6
